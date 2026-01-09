@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="hollowxq8"
+          fetch="https://github.com/hollowxq8-dot/" />
+
+  <!-- Device trees -->
+  <project name="device_xiaomi_rubyx"
+           path="device/xiaomi/rubyx"
+           remote="hollowxq8"
+           revision="lineage-23.1" />
+
+  <project name="device_xiaomi_miuicamera-rubyx"
+           path="device/xiaomi/miuicamera-rubyx"
+           remote="hollowxq8"
+           revision="lineage-23.0" />
+
+  <project name="device_mediatek_sepolicy_vndr"
+           path="device/mediatek/sepolicy_vndr"
+           remote="hollowxq8"
+           revision="lineage-23.0" />
+
+  <!-- Kernel -->
+  <project name="kernel_xiaomi_mt6877"
+           path="kernel/xiaomi/mt6877"
+           remote="hollowxq8"
+           revision="lineage-22.0" />
+
+  <!-- Hardware -->
+  <project name="hardware_xiaomi"
+           path="hardware/xiaomi"
+           remote="hollowxq8"
+           revision="lineage-23.0" />
+
+  <project name="hardware_mediatek"
+           path="hardware/mediatek"
+           remote="hollowxq8"
+           revision="lineage-23.0" />
+
+  <!-- Vendor -->
+  <project name="vendor_xiaomi_rubyx"
+           path="vendor/xiaomi/rubyx"
+           remote="hollowxq8"
+           revision="lineage-23.0" />
+
+  <project name="vendor_xiaomi_miuicamera-rubyx"
+           path="vendor/xiaomi/miuicamera-rubyx"
+           remote="hollowxq8"
+           revision="lineage-23.0" />
+
+  <project name="vendor_mediatek_ims"
+           path="vendor/mediatek/ims"
+           remote="hollowxq8"
+           revision="lineage-23.0" />
+
+</manifest>
