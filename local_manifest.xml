@@ -24,7 +24,7 @@
   <project name="kernel_xiaomi_mt6877"
            path="kernel/xiaomi/mt6877"
            remote="hollowxq8"
-           revision="lineage-22.0" />
+           revision="lineage-23.0" />
 
   <!-- Hardware -->
   <project name="hardware_xiaomi"
