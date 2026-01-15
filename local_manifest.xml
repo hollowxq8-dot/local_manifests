@@ -34,7 +34,7 @@
 
   <project name="hardware_mediatek"
            path="hardware/mediatek"
-           remote="hollowxq8"
+           remote="hollowxq8-dot"
            revision="lineage-23.0" />
 
   <!-- Vendor -->
