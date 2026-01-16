@@ -46,7 +46,7 @@
   <project name="vendor_xiaomi_miuicamera-rubyx"
            path="vendor/xiaomi/miuicamera-rubyx"
            remote="hollowxq8-dot"
-           revision="lineage-23.0" />
+           revision="lineage-23.1" />
 
   <project name="vendor_mediatek_ims"
            path="vendor/mediatek/ims"
