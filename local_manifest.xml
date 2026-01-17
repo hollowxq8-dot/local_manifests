@@ -18,7 +18,7 @@
   <project name="device_mediatek_sepolicy_vndr"
            path="device/mediatek/sepolicy_vndr"
            remote="hollowxq8-dot"
-           revision="lineage-23.0" />
+           revision="lineage-23.2" />
 
   <!-- Kernel -->
   <project name="kernel_xiaomi_mt6877"
