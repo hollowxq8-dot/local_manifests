@@ -41,7 +41,7 @@
   <project name="vendor_xiaomi_rubyx"
            path="vendor/xiaomi/rubyx"
            remote="hollowxq8-dot"
-           revision="lineage-23.0" />
+           revision="alpha-16.1" />
 
   <project name="vendor_xiaomi_miuicamera-rubyx"
            path="vendor/xiaomi/miuicamera-rubyx"
