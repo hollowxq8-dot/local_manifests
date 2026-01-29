@@ -8,7 +8,7 @@
   <project name="device_xiaomi_rubyx"
            path="device/xiaomi/rubyx"
            remote="hollowxq8-dot"
-           revision="lineage-23.1" />
+           revision="alpha-qpr1" />
 
   <project name="device_xiaomi_miuicamera-rubyx"
            path="device/xiaomi/miuicamera-rubyx"
